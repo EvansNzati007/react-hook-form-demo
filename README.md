@@ -1,22 +1,12 @@
-# React + Vite
+# Formulaire React avec react-hook-form
+Un formulaire simple utilisant React et react-hook-form avec validation et bouton désactivé jusqu'à ce que tous les champs soient remplis.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+1. Clone le dépôt : `https://github.com/EvansNzati007/react-hook-form-demo.git`
+2. Installe les dépendances : `npm install`
+3. Lance le projet : `npm start`
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-Et pour les champs, on a des trucs normaux comme :
-_Nom
-_Prenom
-_Date de naissance
-_Titre ou Fonction
-_Adresse postale
-_Numero de téléphone (je dois me rassurer)
-_Nom de l'entreprise (je dois me rassurer)
+## Dépendances
+- React
+- react-hook-form
+- Tailwind CSS
