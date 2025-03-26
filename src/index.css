@@ -1,0 +1,21 @@
+@import "tailwindcss";
+body{
+    font-family: 'Futura';
+    
+}
+@theme {
+    --font-display: "Futura", "sans-serif";
+    --breakpoint-3xl: 120rem;
+    --color-spot-black: #191414;
+    --color-spot-green: #1DB954;
+    --color-spot-white: #FFFFFF;
+    --color-spot-gray-100: #B3B3B3;
+    --color-spot-gray-200: #535353;
+    --color-spot-gray-300: #282828;
+    --color-spot-gray-400:#181818;
+    
+
+
+    
+    /* ... */
+  }
